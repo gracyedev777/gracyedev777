@@ -27,6 +27,7 @@ Sem low code • Sem mágica • Só lógica e código
     alt="Hacker code animation"
   />
 </div>
+
 ---
 
 <img align="right" height="150" src="https://i.imgflip.com/40uxpw.gif" />
@@ -60,6 +61,8 @@ Sem low code • Sem mágica • Só lógica e código
 - 🧠 Lógica, algoritmos e performance
 - 🐧 Ambiente Linux
 
+---
+
 <!-- 🥚 Easter Egg: Snake Retro -->
 <div align="center">
   <img
@@ -86,12 +89,3 @@ Sem low code • Sem mágica • Só lógica e código
 🐛 Bugs criados: █████████░ 90%
 🧠 Conhecimento adquirido: ███████░░░ 70%
 😴 Sono perdido: ████████████████ 1000%
-
-
-<div align="center">
-  <img 
-    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-    height="140"
-    alt="Coding animation"
-  />
-</div>
