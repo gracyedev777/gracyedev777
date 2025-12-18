@@ -86,3 +86,10 @@ Sem low code • Sem mágica • Só lógica e código
 🐛 Bugs criados: █████████░ 90%
 🧠 Conhecimento adquirido: ███████░░░ 70%
 😴 Sono perdido: ████████████████ 1000%
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+    height="140"
+    alt="Coding animation"
+  />
+</div>
