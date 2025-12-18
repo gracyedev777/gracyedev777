@@ -60,6 +60,14 @@ Sem low code • Sem mágica • Só lógica e código
 - 🧠 Lógica, algoritmos e performance
 - 🐧 Ambiente Linux
 
+<!-- 🥚 Easter Egg: Snake Retro -->
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="Snake game animation"
+  />
+</div>
+
 ---
 
 ### 🧩 Mentalidade
