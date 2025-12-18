@@ -1,8 +1,8 @@
 <h2 align="left">👋 Opa! Eu sou o Gracye Dev — seja bem-vindo!</h2>
 
 <p align="left">
-Dev focado em programação, games e tecnologia.  
-C, C++, Python, Godot, Web e muito mais 🚀
+Dev focado em programação, games e tecnologia.<br>
+Código raiz, sem low code 🚀
 </p>
 
 ---
@@ -14,36 +14,60 @@ C, C++, Python, Godot, Web e muito mais 🚀
 
 ---
 
+<h3 align="center">⚙️ Código real, erro real, aprendizado real.</h3>
+
+<p align="center">
+Sem low code • Sem mágica • Só lógica e código
+</p>
+
+---
+
 <img align="right" height="150" src="https://i.imgflip.com/40uxpw.gif" />
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 🧠 Tecnologias & Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30"/>
 </div>
 
 ---
 
-### 🌐 Redes
+### 🎯 Foco Atual
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-</div>
+- 🕹️ Game Dev (Godot / Unity / Unreal)
+- ⚙️ Programação de baixo nível (C / C++)
+- 🧠 Lógica, algoritmos e performance
+- 🐧 Ambiente Linux
 
 ---
 
-<img src="https://raw.githubusercontent.com/gracyedev777/gracyedev777/output/snake.svg" alt="Snake animation" />        
-<h3 align="center">NÃO SOU LOW CODE</h3>
+### 🧩 Mentalidade
+
+- 💻 Resolver problemas antes de seguir tendências  
+- 🧠 Entender o **porquê**, não só o **como**  
+- ⚙️ Preferência por código puro  
+- 🚀 Evolução constante  
+
+---
+
+### 📊 Dev Status
+
+```text
+☕ Café convertido em código: ██████████ 100%
+🐛 Bugs criados: █████████░ 90%
+🧠 Conhecimento adquirido: ███████░░░ 70%
+😴 Sono perdido: ████████████████ 1000%
