@@ -20,6 +20,13 @@ Código raiz, sem low code 🚀
 Sem low code • Sem mágica • Só lógica e código
 </p>
 
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" 
+    height="180"
+    alt="Hacker code animation"
+  />
+</div>
 ---
 
 <img align="right" height="150" src="https://i.imgflip.com/40uxpw.gif" />
