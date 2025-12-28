@@ -2,7 +2,7 @@
 
 <p align="left">
 Dev focado em programação, games e tecnologia.<br>
-Código raiz, sem low code 🚀
+
 </p>
 
 ---
@@ -63,24 +63,6 @@ Sem low code • Sem mágica • Só lógica e código
 
 ---
 
-<!-- 🥚 Easter Egg: Snake Retro -->
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    alt="Snake game animation"
-  />
-</div>
-
----
-
-### 🧩 Mentalidade
-
-- 💻 Resolver problemas antes de seguir tendências  
-- 🧠 Entender o **porquê**, não só o **como**  
-- ⚙️ Preferência por código puro  
-- 🚀 Evolução constante  
-
----
 
 ### 📊 Dev Status
 
